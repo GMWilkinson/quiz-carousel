@@ -28,6 +28,10 @@
   color: #61dafb;
 }
 
+/* div.carousel-item {
+  height: 780px
+} */
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
