@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/quiz-carousel/static/css/main.b75bc07e.chunk.css",
-    "main.js": "/quiz-carousel/static/js/main.50198326.chunk.js",
-    "main.js.map": "/quiz-carousel/static/js/main.50198326.chunk.js.map",
+    "main.js": "/quiz-carousel/static/js/main.72093a57.chunk.js",
+    "main.js.map": "/quiz-carousel/static/js/main.72093a57.chunk.js.map",
     "runtime-main.js": "/quiz-carousel/static/js/runtime-main.f652c0e4.js",
     "runtime-main.js.map": "/quiz-carousel/static/js/runtime-main.f652c0e4.js.map",
     "static/css/2.69121389.chunk.css": "/quiz-carousel/static/css/2.69121389.chunk.css",
     "static/js/2.0233e4cc.chunk.js": "/quiz-carousel/static/js/2.0233e4cc.chunk.js",
     "static/js/2.0233e4cc.chunk.js.map": "/quiz-carousel/static/js/2.0233e4cc.chunk.js.map",
     "index.html": "/quiz-carousel/index.html",
-    "precache-manifest.546ac6637b519b876a6f3a042bd12140.js": "/quiz-carousel/precache-manifest.546ac6637b519b876a6f3a042bd12140.js",
+    "precache-manifest.2426f1d00b96a12ff76b303aa1c4d73a.js": "/quiz-carousel/precache-manifest.2426f1d00b96a12ff76b303aa1c4d73a.js",
     "service-worker.js": "/quiz-carousel/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/quiz-carousel/static/css/2.69121389.chunk.css.map",
     "static/css/main.b75bc07e.chunk.css.map": "/quiz-carousel/static/css/main.b75bc07e.chunk.css.map",
@@ -41,6 +41,6 @@
     "static/css/2.69121389.chunk.css",
     "static/js/2.0233e4cc.chunk.js",
     "static/css/main.b75bc07e.chunk.css",
-    "static/js/main.50198326.chunk.js"
+    "static/js/main.72093a57.chunk.js"
   ]
 }
