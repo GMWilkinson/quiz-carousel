@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1475edda7a8bc96844b3836e41579734",
+    "revision": "0779d90d1894a70fcf3db0e6164b16d9",
     "url": "/quiz-carousel/index.html"
   },
   {
-    "revision": "73817d68912e26007e01",
+    "revision": "3017de883076bf39d2cc",
     "url": "/quiz-carousel/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "d345e4d95e57e54e3383",
+    "revision": "c1e10e550e1d22d62a9f",
     "url": "/quiz-carousel/static/css/main.7eb29335.chunk.css"
   },
   {
-    "revision": "73817d68912e26007e01",
-    "url": "/quiz-carousel/static/js/2.e745b08c.chunk.js"
+    "revision": "3017de883076bf39d2cc",
+    "url": "/quiz-carousel/static/js/2.7a2fd642.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/quiz-carousel/static/js/2.e745b08c.chunk.js.LICENSE.txt"
+    "url": "/quiz-carousel/static/js/2.7a2fd642.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d345e4d95e57e54e3383",
-    "url": "/quiz-carousel/static/js/main.eded8f93.chunk.js"
+    "revision": "c1e10e550e1d22d62a9f",
+    "url": "/quiz-carousel/static/js/main.27c0c527.chunk.js"
   },
   {
     "revision": "6f5527e3c40371c7a281",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4a46f04b15c6a1d278ee65af91222b60",
     "url": "/quiz-carousel/static/media/19.4a46f04b.jpg"
+  },
+  {
+    "revision": "9e8be392d09469adc3872ca2333d36e1",
+    "url": "/quiz-carousel/static/media/21.9e8be392.gif"
   },
   {
     "revision": "7f074cbc899960f37699f15e2a47e42b",

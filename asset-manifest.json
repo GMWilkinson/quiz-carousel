@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/quiz-carousel/static/css/main.7eb29335.chunk.css",
-    "main.js": "/quiz-carousel/static/js/main.eded8f93.chunk.js",
-    "main.js.map": "/quiz-carousel/static/js/main.eded8f93.chunk.js.map",
+    "main.js": "/quiz-carousel/static/js/main.27c0c527.chunk.js",
+    "main.js.map": "/quiz-carousel/static/js/main.27c0c527.chunk.js.map",
     "runtime-main.js": "/quiz-carousel/static/js/runtime-main.f652c0e4.js",
     "runtime-main.js.map": "/quiz-carousel/static/js/runtime-main.f652c0e4.js.map",
     "static/css/2.69121389.chunk.css": "/quiz-carousel/static/css/2.69121389.chunk.css",
-    "static/js/2.e745b08c.chunk.js": "/quiz-carousel/static/js/2.e745b08c.chunk.js",
-    "static/js/2.e745b08c.chunk.js.map": "/quiz-carousel/static/js/2.e745b08c.chunk.js.map",
+    "static/js/2.7a2fd642.chunk.js": "/quiz-carousel/static/js/2.7a2fd642.chunk.js",
+    "static/js/2.7a2fd642.chunk.js.map": "/quiz-carousel/static/js/2.7a2fd642.chunk.js.map",
     "index.html": "/quiz-carousel/index.html",
-    "precache-manifest.ee5c60849d375de4361861b828f2315a.js": "/quiz-carousel/precache-manifest.ee5c60849d375de4361861b828f2315a.js",
+    "precache-manifest.9b0fea761c81eebf6b5bf3d8ff9df870.js": "/quiz-carousel/precache-manifest.9b0fea761c81eebf6b5bf3d8ff9df870.js",
     "service-worker.js": "/quiz-carousel/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/quiz-carousel/static/css/2.69121389.chunk.css.map",
     "static/css/main.7eb29335.chunk.css.map": "/quiz-carousel/static/css/main.7eb29335.chunk.css.map",
-    "static/js/2.e745b08c.chunk.js.LICENSE.txt": "/quiz-carousel/static/js/2.e745b08c.chunk.js.LICENSE.txt",
+    "static/js/2.7a2fd642.chunk.js.LICENSE.txt": "/quiz-carousel/static/js/2.7a2fd642.chunk.js.LICENSE.txt",
     "static/media/0.gif": "/quiz-carousel/static/media/0.9c7ea99f.gif",
     "static/media/1.jpg": "/quiz-carousel/static/media/1.b849b8d4.jpg",
     "static/media/12.jpg": "/quiz-carousel/static/media/12.777b1c55.jpg",
@@ -21,6 +21,7 @@
     "static/media/17.jpg": "/quiz-carousel/static/media/17.37e28ccc.jpg",
     "static/media/18.jpg": "/quiz-carousel/static/media/18.3cb556f7.jpg",
     "static/media/19.jpg": "/quiz-carousel/static/media/19.4a46f04b.jpg",
+    "static/media/21.gif": "/quiz-carousel/static/media/21.9e8be392.gif",
     "static/media/3.jpg": "/quiz-carousel/static/media/3.7f074cbc.jpg",
     "static/media/4.jpg": "/quiz-carousel/static/media/4.8b8da7cf.jpg",
     "static/media/5.jpg": "/quiz-carousel/static/media/5.8fc3199c.jpg",
@@ -30,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.f652c0e4.js",
     "static/css/2.69121389.chunk.css",
-    "static/js/2.e745b08c.chunk.js",
+    "static/js/2.7a2fd642.chunk.js",
     "static/css/main.7eb29335.chunk.css",
-    "static/js/main.eded8f93.chunk.js"
+    "static/js/main.27c0c527.chunk.js"
   ]
 }
