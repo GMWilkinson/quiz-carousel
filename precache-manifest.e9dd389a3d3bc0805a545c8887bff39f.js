@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f8848cdfff9cc672151cac80e5ae2272",
+    "revision": "88051a02b22022a5352c9ebe464abf9e",
     "url": "/quiz-carousel/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/quiz-carousel/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "fe0fd1ec85dc569e2432",
+    "revision": "1fa424190daa1c3401ee",
     "url": "/quiz-carousel/static/css/main.a053d84f.chunk.css"
   },
   {
@@ -20,96 +20,96 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/quiz-carousel/static/js/2.0033860b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fe0fd1ec85dc569e2432",
-    "url": "/quiz-carousel/static/js/main.509d0c1d.chunk.js"
+    "revision": "1fa424190daa1c3401ee",
+    "url": "/quiz-carousel/static/js/main.cbba034d.chunk.js"
   },
   {
     "revision": "9a8cc3db27ac4cca03f7",
     "url": "/quiz-carousel/static/js/runtime-main.e4fa8afb.js"
   },
   {
-    "revision": "eb00615565b84256dd40c4ac565111ff",
-    "url": "/quiz-carousel/static/media/0.eb006155.jpg"
+    "revision": "13e7916e79c4cf9e830872cd8ede33b3",
+    "url": "/quiz-carousel/static/media/0.13e7916e.png"
   },
   {
-    "revision": "4aa1d05b3e23155a4456cf1a4559ba6b",
-    "url": "/quiz-carousel/static/media/1.4aa1d05b.jpg"
+    "revision": "a645d383815a6f4df2e24a063009bd29",
+    "url": "/quiz-carousel/static/media/1.a645d383.jpg"
   },
   {
-    "revision": "b8955e1bf1da9086857ad231dc46a37b",
-    "url": "/quiz-carousel/static/media/10.b8955e1b.jpg"
+    "revision": "b3e278647a1c6f39598353e9e315cefa",
+    "url": "/quiz-carousel/static/media/10.b3e27864.jpg"
   },
   {
     "revision": "2a3c76f525f37d1248ff2bd5f98096db",
     "url": "/quiz-carousel/static/media/10a.2a3c76f5.jpg"
   },
   {
-    "revision": "9ce2e4a5dade67c5fc342d6ee52dcf4b",
-    "url": "/quiz-carousel/static/media/11.9ce2e4a5.jpg"
+    "revision": "bb915fbcceaf7ad401e61a980dff4604",
+    "url": "/quiz-carousel/static/media/11.bb915fbc.jpg"
   },
   {
     "revision": "da759314a268c94671a14c6a79f8d18b",
     "url": "/quiz-carousel/static/media/11a.da759314.jpg"
   },
   {
-    "revision": "1a576b68a983ca75f383ed069e8d1afc",
-    "url": "/quiz-carousel/static/media/12.1a576b68.jpg"
+    "revision": "2e4dda516584fbc3c646de4efc47378f",
+    "url": "/quiz-carousel/static/media/12.2e4dda51.jpg"
   },
   {
     "revision": "128924c419d764c2adf4dd14b3b2402e",
     "url": "/quiz-carousel/static/media/12a.128924c4.jpg"
   },
   {
-    "revision": "ebbc1f026d6f244d167b31346bfd0ee1",
-    "url": "/quiz-carousel/static/media/13.ebbc1f02.jpg"
+    "revision": "ca0f59f66a2766631600bea4095616b1",
+    "url": "/quiz-carousel/static/media/13.ca0f59f6.jpg"
   },
   {
     "revision": "4bb2730552d39e5a396ea4a08a0d0e3e",
     "url": "/quiz-carousel/static/media/13a.4bb27305.jpg"
   },
   {
-    "revision": "8119406ad5e20272f4c2321706aa67c6",
-    "url": "/quiz-carousel/static/media/14.8119406a.jpg"
+    "revision": "0f227a542b71dfe1a8c850dc261d6b82",
+    "url": "/quiz-carousel/static/media/14.0f227a54.jpg"
   },
   {
     "revision": "2425375c4b41c701369935655c4d6f69",
     "url": "/quiz-carousel/static/media/14a.2425375c.jpg"
   },
   {
-    "revision": "dbecb6748abcd1cf6800c1960e79c10d",
-    "url": "/quiz-carousel/static/media/15.dbecb674.jpg"
+    "revision": "4581be92dc2c09daaaf1986b1a8a7925",
+    "url": "/quiz-carousel/static/media/15.4581be92.jpg"
   },
   {
     "revision": "49fa5cef89fb63d3263af0af0a3aa3a8",
     "url": "/quiz-carousel/static/media/15a.49fa5cef.jpg"
   },
   {
-    "revision": "9080c54d23427708143530bf8b106096",
-    "url": "/quiz-carousel/static/media/16.9080c54d.jpg"
+    "revision": "fb53d943919e64c79ad6f684ffdab066",
+    "url": "/quiz-carousel/static/media/16.fb53d943.jpg"
   },
   {
     "revision": "aafe487b2300e0b7d84912e669ed1d8f",
     "url": "/quiz-carousel/static/media/16a.aafe487b.jpg"
   },
   {
-    "revision": "772546abc4f3f954a6aa3c6acbf3a3b2",
-    "url": "/quiz-carousel/static/media/17.772546ab.jpg"
+    "revision": "9b686c8cf443a09b41a3dfb79364eb48",
+    "url": "/quiz-carousel/static/media/17.9b686c8c.jpg"
   },
   {
     "revision": "05799e6946ac21a047823cf10646d74c",
     "url": "/quiz-carousel/static/media/17a.05799e69.jpg"
   },
   {
-    "revision": "1ab786f83f6d1f0fe6b7264e74428f23",
-    "url": "/quiz-carousel/static/media/18.1ab786f8.jpg"
+    "revision": "37b29122e8060e24d3648a25d01b99d4",
+    "url": "/quiz-carousel/static/media/18.37b29122.jpg"
   },
   {
     "revision": "4d53689d65d0413cdef21d62d1490378",
     "url": "/quiz-carousel/static/media/18a.4d53689d.jpg"
   },
   {
-    "revision": "7fbe187e2c44ee4772d66df6d1b2dc78",
-    "url": "/quiz-carousel/static/media/19.7fbe187e.jpg"
+    "revision": "cc8a9d351828ea855f6cfd8288b7cf91",
+    "url": "/quiz-carousel/static/media/19.cc8a9d35.jpg"
   },
   {
     "revision": "64c0b3c993e6544b13021e89dd4f1d97",
@@ -120,76 +120,76 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/quiz-carousel/static/media/1a.ccd0bcdb.jpg"
   },
   {
-    "revision": "2304cd184ed7088d91fabbed3bc8c2b1",
-    "url": "/quiz-carousel/static/media/2.2304cd18.jpg"
+    "revision": "43ab08946708c8fd4f026d079a2930bc",
+    "url": "/quiz-carousel/static/media/2.43ab0894.jpg"
   },
   {
-    "revision": "b200f761b03946b9571cc26b89b03e64",
-    "url": "/quiz-carousel/static/media/20.b200f761.jpg"
+    "revision": "c57ad0bc62823a4e9eb20be6fc608ed9",
+    "url": "/quiz-carousel/static/media/20.c57ad0bc.jpg"
   },
   {
     "revision": "a7e1f004bbb3cf2d74fdc76860de685b",
     "url": "/quiz-carousel/static/media/20a.a7e1f004.jpg"
   },
   {
-    "revision": "549df5827992cbe3595559bbbe5024fd",
-    "url": "/quiz-carousel/static/media/21.549df582.jpg"
+    "revision": "900882bb4947de27947d00e9e7554b9e",
+    "url": "/quiz-carousel/static/media/21.900882bb.png"
   },
   {
     "revision": "7f9def2268efbc52f604bdfe09e6b59c",
     "url": "/quiz-carousel/static/media/2a.7f9def22.jpg"
   },
   {
-    "revision": "1449970f1d54f53017254855693b14b5",
-    "url": "/quiz-carousel/static/media/3.1449970f.jpg"
+    "revision": "bfb7040847b60a7d668e0130765dd9b0",
+    "url": "/quiz-carousel/static/media/3.bfb70408.jpg"
   },
   {
     "revision": "38d261e3012d717fe3209c1c06e189b2",
     "url": "/quiz-carousel/static/media/3a.38d261e3.jpg"
   },
   {
-    "revision": "b247214bedaa8e4051792e0ab7a157ea",
-    "url": "/quiz-carousel/static/media/4.b247214b.jpg"
+    "revision": "2f8219ba3063a3ec0c1e67607dd23d79",
+    "url": "/quiz-carousel/static/media/4.2f8219ba.jpg"
   },
   {
     "revision": "f03d1faf86ecdba379edcf347e49388c",
     "url": "/quiz-carousel/static/media/4a.f03d1faf.jpg"
   },
   {
-    "revision": "a2e6725bb577d02f2ec4b8971b49b3e8",
-    "url": "/quiz-carousel/static/media/5.a2e6725b.jpg"
+    "revision": "0aa92bc7e728f95676ca466c6504e0b3",
+    "url": "/quiz-carousel/static/media/5.0aa92bc7.jpg"
   },
   {
     "revision": "63cb0af9f3cfb44ddf44a4b95ba1635f",
     "url": "/quiz-carousel/static/media/5a.63cb0af9.jpg"
   },
   {
-    "revision": "d9b1be3fb46d3f957541e88348affb05",
-    "url": "/quiz-carousel/static/media/6.d9b1be3f.jpg"
+    "revision": "38acffeecf705dac41de1e84db780bf0",
+    "url": "/quiz-carousel/static/media/6.38acffee.jpg"
   },
   {
     "revision": "378d2c0190f794dab3d2e7ed23bdfe28",
     "url": "/quiz-carousel/static/media/6a.378d2c01.jpg"
   },
   {
-    "revision": "c588dc777d781967d69e4c8d042209ee",
-    "url": "/quiz-carousel/static/media/7.c588dc77.jpg"
+    "revision": "65874970236c312c2fde8640c8c2dd07",
+    "url": "/quiz-carousel/static/media/7.65874970.jpg"
   },
   {
     "revision": "44e4c0ee1147ea6dd4952efb77b4c562",
     "url": "/quiz-carousel/static/media/7a.44e4c0ee.jpg"
   },
   {
-    "revision": "cee5898ecc76a88f269ee6ff1868aee3",
-    "url": "/quiz-carousel/static/media/8.cee5898e.jpg"
+    "revision": "096191c6985a06ef373c8b5ad8d75ba8",
+    "url": "/quiz-carousel/static/media/8.096191c6.jpg"
   },
   {
     "revision": "ea18dd53721b5dd0d50b0c78585a8c0e",
     "url": "/quiz-carousel/static/media/8a.ea18dd53.jpg"
   },
   {
-    "revision": "a0749183362d56bf065f72ae8620b12e",
-    "url": "/quiz-carousel/static/media/9.a0749183.jpg"
+    "revision": "acaa807c6c7b81eeae56146d1db132b4",
+    "url": "/quiz-carousel/static/media/9.acaa807c.jpg"
   },
   {
     "revision": "7d21f1589ee38f2a95b0666783c764ee",
