@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5bbea8bef5ae2e0d9dddeca142a3bb2c",
+    "revision": "8c0b69f0f13205c5a06ee2e8ae0c8cda",
     "url": "/quiz-carousel/index.html"
   },
   {
-    "revision": "9a8278cd9212ba233042",
+    "revision": "771e34fe16f846f71373",
     "url": "/quiz-carousel/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "6c447298e405081bef56",
-    "url": "/quiz-carousel/static/css/main.a053d84f.chunk.css"
+    "revision": "0e8274e4db8473e742a4",
+    "url": "/quiz-carousel/static/css/main.0f181e92.chunk.css"
   },
   {
-    "revision": "9a8278cd9212ba233042",
-    "url": "/quiz-carousel/static/js/2.0033860b.chunk.js"
+    "revision": "771e34fe16f846f71373",
+    "url": "/quiz-carousel/static/js/2.6dc2da32.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/quiz-carousel/static/js/2.0033860b.chunk.js.LICENSE.txt"
+    "url": "/quiz-carousel/static/js/2.6dc2da32.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6c447298e405081bef56",
-    "url": "/quiz-carousel/static/js/main.d7c924f9.chunk.js"
+    "revision": "0e8274e4db8473e742a4",
+    "url": "/quiz-carousel/static/js/main.d1906d46.chunk.js"
   },
   {
     "revision": "9a8cc3db27ac4cca03f7",
